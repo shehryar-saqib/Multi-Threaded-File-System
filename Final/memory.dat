@@ -1,0 +1,6 @@
+Root: 0x7f4d780041c0 Pages: 512
+d: 0x7f4d7d5a9f10 Pages: 128
+f.txt: 0x7f4d7d5a9ec0 Pages: 128
+folder1: 0x7f4d7d5a9f10 Pages: 128
+file1.txt: 0x7f4d7d5a9ae0 Pages: 128
+s.txt: 0x7f4d7d5a9ec0 Pages: 128
